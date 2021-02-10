@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+int l = 1;
 	int k = 3;
 	for(int i = 1;i < 2;i++)
 	{
@@ -17,4 +18,6 @@ int main()
 			}
 		}
 	}
+	//
+	return 0;
  } 
