@@ -4,5 +4,7 @@ int main()
 {
 cin>>a;
 cin>a;
+cin>>B;
+//第一个版本 
 	
 } 
